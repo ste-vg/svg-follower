@@ -33,17 +33,6 @@ module.exports = {
               } 
           }]
       },
-      // {
-      //   test: /\.(png|jp(e*)g|svg)$/,  
-      //     use: [{
-      //         loader: 'file-loader'
-      //     }]
-      // },
-      
-      // {
-      //   test: /\.(png|jpe?g|gif|svg|woff|woff2|ttf|eot|ico)$/,
-      //   loader: 'file-loader?name=assets/[name].[hash].[ext]'
-      // },
       {
         test: /\.scss$/,
         use: [{
