@@ -17,7 +17,7 @@ export class App
 	private autoMouse:Subscription;
 
 	private followers:Follower[] = [];
-	private colors = ['red', 'blue', 'green', 'yellow'];//, 'white'];
+	private colors = ['red', 'blue', 'green', 'yellow', 'white'];
 
 	private previewMode:boolean = false;
 	private record:boolean = false;
