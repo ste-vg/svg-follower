@@ -1,4 +1,12 @@
-h1
+body
 {
-    color: slategrey;
+    background-color: black;
+}
+
+svg
+{
+    path
+    {
+        mix-blend-mode: screen;
+    }
 }

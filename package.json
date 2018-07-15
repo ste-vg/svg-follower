@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/steveg3003/typescript-webpack-boilerplate#readme",
   "dependencies": {
-    
+    "rxjs": "^5.5.8"
   },
   "devDependencies": {
     "fs": "0.0.1-security",
